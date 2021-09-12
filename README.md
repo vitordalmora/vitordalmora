@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Vitor Gabriel
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Python
+# 👋 Hi, I’m Vitor Gabriel
+# 🌱 I’m currently learning Python, CSS and HTML
 
 
 
