@@ -1,7 +1,7 @@
 - Olá, me chamo Vitor, sempre quis saber como as coisas realmente funcionavam por trás das câmeras, então decidi entrar para o mundo da programação :)
 
 - Python básico
-- Aprendendo C
+- Aprendendo HTML e CSS
 
 
 <div>
